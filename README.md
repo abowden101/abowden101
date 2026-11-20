@@ -10,7 +10,7 @@ Building practical automation, zero-trust patterns, and real lab platforms.
 - CompTIA Security+ (target late 2026) → CCNA → senior networking / AWS DCT path
 - Network automation with Ansible, Netmiko, Terraform, and Containerlab
 - UniFi + Cisco environments for healthcare, MSPs, and Central Florida businesses
-- Zero-trust network intelligence (ObsidianAI)
+- Zero-trust network intelligence (Veritas Guard)
 
 ### Featured Projects
 
